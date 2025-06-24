@@ -1,4 +1,4 @@
-Clone the reposository
+Clone the repository
 
 run streamlit_app.py
 
