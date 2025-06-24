@@ -1,0 +1,12 @@
+From,To,Avg_PnL
+Extreme Fear,Fear,38.26766683333333
+Extreme Fear,Neutral,2239.485224
+Extreme Greed,Greed,41.24455525
+Fear,Extreme Fear,2.306366428571429
+Fear,Greed,8.99
+Fear,Neutral,104.1570874
+Greed,Extreme Greed,59.05878216666667
+Greed,Fear,0.0
+Greed,Neutral,5.500443235294118
+Neutral,Fear,121.2394416875
+Neutral,Greed,12.831762000000001

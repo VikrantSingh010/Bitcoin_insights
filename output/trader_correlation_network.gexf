@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-06-25">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="0x083384f897ee0f19899168e3b1bec365f52a9012" label="0x083384f897ee0f19899168e3b1bec365f52a9012" />
+      <node id="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" label="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" />
+      <node id="0x271b280974205ca63b716753467d5a371de622ab" label="0x271b280974205ca63b716753467d5a371de622ab" />
+      <node id="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" label="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" />
+      <node id="0x2c229d22b100a7beb69122eed721cee9b24011dd" label="0x2c229d22b100a7beb69122eed721cee9b24011dd" />
+      <node id="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" label="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" />
+      <node id="0x39cef799f8b69da1995852eea189df24eb5cae3c" label="0x39cef799f8b69da1995852eea189df24eb5cae3c" />
+      <node id="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" label="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" />
+      <node id="0x420ab45e0bd8863569a5efbb9c05d91f40624641" label="0x420ab45e0bd8863569a5efbb9c05d91f40624641" />
+      <node id="0x430f09841d65beb3f27765503d0f850b8bce7713" label="0x430f09841d65beb3f27765503d0f850b8bce7713" />
+      <node id="0x47add9a56df66b524d5e2c1993a43cde53b6ed85" label="0x47add9a56df66b524d5e2c1993a43cde53b6ed85" />
+      <node id="0x4acb90e786d897ecffb614dc822eb231b4ffb9f4" label="0x4acb90e786d897ecffb614dc822eb231b4ffb9f4" />
+      <node id="0x4f93fead39b70a1824f981a54d4e55b278e9f760" label="0x4f93fead39b70a1824f981a54d4e55b278e9f760" />
+      <node id="0x513b8629fe877bb581bf244e326a047b249c4ff1" label="0x513b8629fe877bb581bf244e326a047b249c4ff1" />
+      <node id="0x6d6a4b953f202f8df5bed40692e7fd865318264a" label="0x6d6a4b953f202f8df5bed40692e7fd865318264a" />
+      <node id="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" label="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" />
+      <node id="0x72c6a4624e1dffa724e6d00d64ceae698af892a0" label="0x72c6a4624e1dffa724e6d00d64ceae698af892a0" />
+      <node id="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" label="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" />
+      <node id="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" label="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" />
+      <node id="0x8170715b3b381dffb7062c0298972d4727a0a63b" label="0x8170715b3b381dffb7062c0298972d4727a0a63b" />
+      <node id="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" label="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" />
+      <node id="0x8477e447846c758f5a675856001ea72298fd9cb5" label="0x8477e447846c758f5a675856001ea72298fd9cb5" />
+      <node id="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" label="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" />
+      <node id="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" label="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" />
+      <node id="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" label="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" />
+      <node id="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" label="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" />
+      <node id="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" label="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" />
+      <node id="0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23" label="0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23" />
+      <node id="0xb899e522b5715391ae1d4f137653e7906c5e2115" label="0xb899e522b5715391ae1d4f137653e7906c5e2115" />
+      <node id="0xbaaaf6571ab7d571043ff1e313a9609a10637864" label="0xbaaaf6571ab7d571043ff1e313a9609a10637864" />
+      <node id="0xbd5fead7180a9c139fa51a103cb6a2ce86ddb5c3" label="0xbd5fead7180a9c139fa51a103cb6a2ce86ddb5c3" />
+      <node id="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" label="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" />
+    </nodes>
+    <edges>
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0x2c229d22b100a7beb69122eed721cee9b24011dd" id="0" weight="0.34650605654761246" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0x39cef799f8b69da1995852eea189df24eb5cae3c" id="1" weight="0.35868831824028685" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" id="2" weight="0.33745757033649293" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0x4acb90e786d897ecffb614dc822eb231b4ffb9f4" id="3" weight="0.3101583997276364" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0x6d6a4b953f202f8df5bed40692e7fd865318264a" id="4" weight="-0.998314195848464" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" id="5" weight="-0.32900682762339345" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" id="6" weight="0.9989183813894779" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="7" weight="-0.6406855523881734" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" id="8" weight="-1.0" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23" id="9" weight="-0.45754017922737233" />
+      <edge source="0x083384f897ee0f19899168e3b1bec365f52a9012" target="0xbaaaf6571ab7d571043ff1e313a9609a10637864" id="10" weight="-0.9999999999999998" />
+      <edge source="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" target="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" id="11" weight="0.9214461811607422" />
+      <edge source="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" target="0x39cef799f8b69da1995852eea189df24eb5cae3c" id="12" weight="0.34533651913410374" />
+      <edge source="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" target="0x420ab45e0bd8863569a5efbb9c05d91f40624641" id="13" weight="0.5496239994086544" />
+      <edge source="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" target="0x430f09841d65beb3f27765503d0f850b8bce7713" id="14" weight="0.4522940452537986" />
+      <edge source="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" target="0x6d6a4b953f202f8df5bed40692e7fd865318264a" id="15" weight="0.8450587805641894" />
+      <edge source="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" target="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" id="16" weight="-0.5141862646203036" />
+      <edge source="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" target="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" id="17" weight="0.3284114197662951" />
+      <edge source="0x23e7a7f8d14b550961925fbfdaa92f5d195ba5bd" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="18" weight="-0.8273884282630086" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x2c229d22b100a7beb69122eed721cee9b24011dd" id="19" weight="-0.3263942306618283" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" id="20" weight="0.9952930116739791" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x39cef799f8b69da1995852eea189df24eb5cae3c" id="21" weight="0.9167690905324328" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" id="22" weight="-0.5087390369765555" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x430f09841d65beb3f27765503d0f850b8bce7713" id="23" weight="1.0000000000000002" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x6d6a4b953f202f8df5bed40692e7fd865318264a" id="24" weight="0.37458584909265735" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" id="25" weight="-0.3554466952583254" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x72c6a4624e1dffa724e6d00d64ceae698af892a0" id="26" weight="0.668438235809317" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" id="27" weight="-0.999933182773639" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x8170715b3b381dffb7062c0298972d4727a0a63b" id="28" weight="0.8827974285562284" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0x8477e447846c758f5a675856001ea72298fd9cb5" id="29" weight="0.9934121406135314" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="30" weight="1.0" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="31" weight="-0.9083412365507407" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23" id="32" weight="0.439497864395517" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="33" weight="-1.0000000000000002" />
+      <edge source="0x271b280974205ca63b716753467d5a371de622ab" target="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" id="34" weight="-0.34896106215236494" />
+      <edge source="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" target="0x39cef799f8b69da1995852eea189df24eb5cae3c" id="35" weight="0.5434486722761557" />
+      <edge source="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" target="0x430f09841d65beb3f27765503d0f850b8bce7713" id="36" weight="0.9423094679654317" />
+      <edge source="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" target="0x513b8629fe877bb581bf244e326a047b249c4ff1" id="37" weight="0.41000754559307223" />
+      <edge source="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" target="0x6d6a4b953f202f8df5bed40692e7fd865318264a" id="38" weight="0.4594583956252626" />
+      <edge source="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="39" weight="0.42393771329303515" />
+      <edge source="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" target="0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23" id="40" weight="0.5046169792104979" />
+      <edge source="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="41" weight="0.34246733794966666" />
+      <edge source="0x28736f43f1e871e6aa8b1148d38d4994275d72c4" target="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" id="42" weight="0.3238488117836298" />
+      <edge source="0x2c229d22b100a7beb69122eed721cee9b24011dd" target="0x39cef799f8b69da1995852eea189df24eb5cae3c" id="43" weight="0.4708079843011509" />
+      <edge source="0x2c229d22b100a7beb69122eed721cee9b24011dd" target="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" id="44" weight="-0.45172241200734703" />
+      <edge source="0x2c229d22b100a7beb69122eed721cee9b24011dd" target="0x513b8629fe877bb581bf244e326a047b249c4ff1" id="45" weight="-0.4090312702450343" />
+      <edge source="0x2c229d22b100a7beb69122eed721cee9b24011dd" target="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" id="46" weight="0.5872468489628597" />
+      <edge source="0x2c229d22b100a7beb69122eed721cee9b24011dd" target="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" id="47" weight="-0.41875184313837116" />
+      <edge source="0x2c229d22b100a7beb69122eed721cee9b24011dd" target="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" id="48" weight="0.42911411264233595" />
+      <edge source="0x2c229d22b100a7beb69122eed721cee9b24011dd" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="49" weight="-0.40816300116896453" />
+      <edge source="0x2c229d22b100a7beb69122eed721cee9b24011dd" target="0xbaaaf6571ab7d571043ff1e313a9609a10637864" id="50" weight="0.4179255092245037" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0x420ab45e0bd8863569a5efbb9c05d91f40624641" id="51" weight="-1.0" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0x430f09841d65beb3f27765503d0f850b8bce7713" id="52" weight="0.9827483920341734" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0x513b8629fe877bb581bf244e326a047b249c4ff1" id="53" weight="-0.47979733523099727" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" id="54" weight="-0.897102321677178" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" id="55" weight="-0.6409648565552541" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" id="56" weight="-0.5571924546879232" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" id="57" weight="-0.4498359510714601" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" id="58" weight="-0.9150624009889461" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" id="59" weight="0.3015241964430402" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="60" weight="0.3965870417717303" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="61" weight="0.7410567959646815" />
+      <edge source="0x3998f134d6aaa2b6a5f723806d00fd2bbbbce891" target="0xbaaaf6571ab7d571043ff1e313a9609a10637864" id="62" weight="0.4021040335455537" />
+      <edge source="0x39cef799f8b69da1995852eea189df24eb5cae3c" target="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" id="63" weight="-0.5052753674127555" />
+      <edge source="0x39cef799f8b69da1995852eea189df24eb5cae3c" target="0x6d6a4b953f202f8df5bed40692e7fd865318264a" id="64" weight="0.3612442082788599" />
+      <edge source="0x39cef799f8b69da1995852eea189df24eb5cae3c" target="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" id="65" weight="-0.7572464531242391" />
+      <edge source="0x39cef799f8b69da1995852eea189df24eb5cae3c" target="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" id="66" weight="0.43713744972362806" />
+      <edge source="0x39cef799f8b69da1995852eea189df24eb5cae3c" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="67" weight="-0.33821271922017465" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0x420ab45e0bd8863569a5efbb9c05d91f40624641" id="68" weight="-1.0" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0x430f09841d65beb3f27765503d0f850b8bce7713" id="69" weight="-1.0" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0x4acb90e786d897ecffb614dc822eb231b4ffb9f4" id="70" weight="-0.31065470316144433" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0x513b8629fe877bb581bf244e326a047b249c4ff1" id="71" weight="0.7959465113295081" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0x6d6a4b953f202f8df5bed40692e7fd865318264a" id="72" weight="0.6716269464712268" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" id="73" weight="1.0" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" id="74" weight="-0.9128135090107153" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="75" weight="0.49734643956283575" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" id="76" weight="-0.9999999999999999" />
+      <edge source="0x3f9a0aadc7f04a7c9d75dc1b5a6ddd6e36486cf6" target="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" id="77" weight="-0.49621642465587273" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0x4acb90e786d897ecffb614dc822eb231b4ffb9f4" id="78" weight="-0.3423690522490097" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0x513b8629fe877bb581bf244e326a047b249c4ff1" id="79" weight="0.8841665285521054" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0x6d6a4b953f202f8df5bed40692e7fd865318264a" id="80" weight="-0.5106504120658051" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" id="81" weight="-0.564953021502175" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" id="82" weight="-0.364482292126381" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" id="83" weight="-0.5021062993695434" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" id="84" weight="-0.3741347640383123" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" id="85" weight="0.999999980376442" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" id="86" weight="-0.30298857549099767" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="87" weight="-0.9098954883847717" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="88" weight="-0.46009067154347877" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" id="89" weight="-0.4590296637016108" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="90" weight="0.527883589063819" />
+      <edge source="0x420ab45e0bd8863569a5efbb9c05d91f40624641" target="0xbaaaf6571ab7d571043ff1e313a9609a10637864" id="91" weight="1.0" />
+      <edge source="0x430f09841d65beb3f27765503d0f850b8bce7713" target="0x47add9a56df66b524d5e2c1993a43cde53b6ed85" id="92" weight="0.4220420082140266" />
+      <edge source="0x430f09841d65beb3f27765503d0f850b8bce7713" target="0x72c6a4624e1dffa724e6d00d64ceae698af892a0" id="93" weight="0.8155015528483" />
+      <edge source="0x430f09841d65beb3f27765503d0f850b8bce7713" target="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" id="94" weight="-0.5795528592185942" />
+      <edge source="0x430f09841d65beb3f27765503d0f850b8bce7713" target="0x8170715b3b381dffb7062c0298972d4727a0a63b" id="95" weight="0.3408092366916069" />
+      <edge source="0x430f09841d65beb3f27765503d0f850b8bce7713" target="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" id="96" weight="-0.31495094956584757" />
+      <edge source="0x430f09841d65beb3f27765503d0f850b8bce7713" target="0x8477e447846c758f5a675856001ea72298fd9cb5" id="97" weight="0.9939336525291282" />
+      <edge source="0x430f09841d65beb3f27765503d0f850b8bce7713" target="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" id="98" weight="0.5898482981201844" />
+      <edge source="0x47add9a56df66b524d5e2c1993a43cde53b6ed85" target="0x513b8629fe877bb581bf244e326a047b249c4ff1" id="99" weight="0.45919093151249674" />
+      <edge source="0x47add9a56df66b524d5e2c1993a43cde53b6ed85" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="100" weight="0.6163146327725865" />
+      <edge source="0x4acb90e786d897ecffb614dc822eb231b4ffb9f4" target="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" id="101" weight="0.8183851618416239" />
+      <edge source="0x4f93fead39b70a1824f981a54d4e55b278e9f760" target="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" id="102" weight="0.8533448710612107" />
+      <edge source="0x513b8629fe877bb581bf244e326a047b249c4ff1" target="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" id="103" weight="-0.37083403779802876" />
+      <edge source="0x513b8629fe877bb581bf244e326a047b249c4ff1" target="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" id="104" weight="-0.3815496112822651" />
+      <edge source="0x513b8629fe877bb581bf244e326a047b249c4ff1" target="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" id="105" weight="0.6066292563243432" />
+      <edge source="0x513b8629fe877bb581bf244e326a047b249c4ff1" target="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" id="106" weight="-0.47645547541902006" />
+      <edge source="0x513b8629fe877bb581bf244e326a047b249c4ff1" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="107" weight="-0.39185008176087255" />
+      <edge source="0x6d6a4b953f202f8df5bed40692e7fd865318264a" target="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" id="108" weight="-0.33363988128920485" />
+      <edge source="0x6d6a4b953f202f8df5bed40692e7fd865318264a" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="109" weight="0.3992772984335967" />
+      <edge source="0x6d6a4b953f202f8df5bed40692e7fd865318264a" target="0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23" id="110" weight="0.5793902503837062" />
+      <edge source="0x6d6a4b953f202f8df5bed40692e7fd865318264a" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="111" weight="-0.31577466997982023" />
+      <edge source="0x6d6a4b953f202f8df5bed40692e7fd865318264a" target="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" id="112" weight="0.4987366944758018" />
+      <edge source="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" target="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" id="113" weight="-0.3701478747193826" />
+      <edge source="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="114" weight="0.32640602094189575" />
+      <edge source="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="115" weight="0.7901170416177408" />
+      <edge source="0x72743ae2822edd658c0c50608fd7c5c501b2afbd" target="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" id="116" weight="0.5102807829674906" />
+      <edge source="0x72c6a4624e1dffa724e6d00d64ceae698af892a0" target="0x8170715b3b381dffb7062c0298972d4727a0a63b" id="117" weight="0.8053962440784466" />
+      <edge source="0x72c6a4624e1dffa724e6d00d64ceae698af892a0" target="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" id="118" weight="-0.38660449886756193" />
+      <edge source="0x72c6a4624e1dffa724e6d00d64ceae698af892a0" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="119" weight="-0.37862811887199976" />
+      <edge source="0x72c6a4624e1dffa724e6d00d64ceae698af892a0" target="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" id="120" weight="0.5" />
+      <edge source="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" target="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" id="121" weight="0.5068029238613609" />
+      <edge source="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" target="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" id="122" weight="-0.30646432313063426" />
+      <edge source="0x75f7eeb85dc639d5e99c78f95393aa9a5f1170d4" target="0xbaaaf6571ab7d571043ff1e313a9609a10637864" id="123" weight="-0.5197470985020413" />
+      <edge source="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" target="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" id="124" weight="-1.0000000000000002" />
+      <edge source="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="125" weight="-0.602234347115665" />
+      <edge source="0x7f4f299f74eec87806a830e3caa9afa5f2b9db8f" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="126" weight="-0.913759377844403" />
+      <edge source="0x8170715b3b381dffb7062c0298972d4727a0a63b" target="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" id="127" weight="-0.581348695874166" />
+      <edge source="0x8170715b3b381dffb7062c0298972d4727a0a63b" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="128" weight="-0.5911144286627137" />
+      <edge source="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="129" weight="-0.8884126893094332" />
+      <edge source="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="130" weight="-0.318598124556348" />
+      <edge source="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="131" weight="-0.5471683970798433" />
+      <edge source="0x8381e6d82f1affd39a336e143e081ef7620a3b7f" target="0xbaaaf6571ab7d571043ff1e313a9609a10637864" id="132" weight="-0.9701653328990448" />
+      <edge source="0x8477e447846c758f5a675856001ea72298fd9cb5" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="133" weight="-0.4866859778727678" />
+      <edge source="0x8477e447846c758f5a675856001ea72298fd9cb5" target="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" id="134" weight="-0.31510197975586834" />
+      <edge source="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" target="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" id="135" weight="-0.3685106333758638" />
+      <edge source="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" target="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" id="136" weight="-1.0" />
+      <edge source="0x92f17e8d81a944691c10e753af1b1baae1a2cd0d" target="0xbaaaf6571ab7d571043ff1e313a9609a10637864" id="137" weight="0.9701653328990448" />
+      <edge source="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="138" weight="0.9086845811336316" />
+      <edge source="0xa0feb3725a9335f49874d7cd8eaad6be45b27416" target="0xbd5fead7180a9c139fa51a103cb6a2ce86ddb5c3" id="139" weight="0.3956481254443246" />
+      <edge source="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" target="0xae5eacaf9c6b9111fd53034a602c192a04e082ed" id="140" weight="0.6303738127521671" />
+      <edge source="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" target="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" id="141" weight="-1.0000000000000002" />
+      <edge source="0xa520ded057a32086c40e7dd6ed4eb8efb82c00e0" target="0xb899e522b5715391ae1d4f137653e7906c5e2115" id="142" weight="0.685344555126308" />
+      <edge source="0xaf40fdc468c30116bd3307bcbf4a451a7ebf1deb" target="0xbd5fead7180a9c139fa51a103cb6a2ce86ddb5c3" id="143" weight="-0.76472459605578" />
+      <edge source="0xb1231a4a2dd02f2276fa3c5e2a2f3436e6bfed23" target="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" id="144" weight="0.3810476474745653" />
+      <edge source="0xbaaaf6571ab7d571043ff1e313a9609a10637864" target="0xbd5fead7180a9c139fa51a103cb6a2ce86ddb5c3" id="145" weight="0.3234673039366995" />
+      <edge source="0xbaaaf6571ab7d571043ff1e313a9609a10637864" target="0xbee1707d6b44d4d52bfe19e41f8a828645437aab" id="146" weight="0.5237845786998292" />
+    </edges>
+  </graph>
+</gexf>

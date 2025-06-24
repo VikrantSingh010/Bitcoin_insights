@@ -1,0 +1,43 @@
+Market Sentiment Distribution:
+  Fear: 61837 trades (29.3%)
+  Greed: 50309 trades (23.8%)
+  Extreme Greed: 39992 trades (18.9%)
+  Neutral: 37686 trades (17.8%)
+  Extreme Fear: 21400 trades (10.1%)
+
+Profitability by Sentiment:
+  Extreme Fear: Total PnL=$739110.25, Avg PnL=$34.5379, Trades=21400
+  Extreme Greed: Total PnL=$2715171.31, Avg PnL=$67.8929, Trades=39992
+  Fear: Total PnL=$3357155.44, Avg PnL=$54.2904, Trades=61837
+  Greed: Total PnL=$2192601.27, Avg PnL=$43.5827, Trades=50309
+  Neutral: Total PnL=$1292920.68, Avg PnL=$34.3077, Trades=37686
+
+Volume Analysis:
+  Extreme Fear: Total Volume=$114484261.44, Avg Size=$5349.73
+  Extreme Greed: Total Volume=$124465164.57, Avg Size=$3112.25
+  Fear: Total Volume=$483324789.79, Avg Size=$7816.11
+  Greed: Total Volume=$288671163.58, Avg Size=$5737.96
+  Neutral: Total Volume=$180242063.08, Avg Size=$4782.73
+
+Correlation Fear & Greed vs PnL: 0.0083
+Correlation Fear & Greed vs Size: -0.0298
+
+Most Profitable Sentiment: Extreme Greed
+Highest Volume Sentiment: Fear
+Lowest Risk Sentiment: Neutral
+
+Actionable Insights:
+  - Consider contrarian trades around extremes
+  - Exploit volume opportunities during fear
+  - Adjust risk management by sentiment
+  - Monitor sentiment transitions for timing
+
+Risk-Adjusted Returns:
+  Extreme Fear: 0.0304
+  Extreme Greed: 0.0885
+  Fear: 0.0580
+  Greed: 0.0389
+  Neutral: 0.0663
+
+Extreme Fear (<=25) Avg PnL: $34.7185
+Extreme Greed (>=75) Avg PnL: $67.8929
