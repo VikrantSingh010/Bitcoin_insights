@@ -1,5 +1,5 @@
 Clone the repository
-bash```
+
 run streamlit_app.py
 
 
